@@ -1,0 +1,7 @@
+extends: 
+  - standard
+  - prettier
+env:
+  browser: true
+  jquery: true
+  greasemonkey: true

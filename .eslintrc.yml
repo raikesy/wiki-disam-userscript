@@ -5,3 +5,5 @@ env:
   browser: true
   jquery: true
   greasemonkey: true
+globals:
+  numeral: false
